@@ -7,6 +7,8 @@
 
 ![blakolukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakolukas&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakolukas&layout=compact)
+
 ## Skills
 
 <div style= "display_block"><br/>
